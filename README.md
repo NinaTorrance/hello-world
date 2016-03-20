@@ -1,2 +1,3 @@
 # hello-world
-ideas, projects e.t.c i guess
+hey guys!
+i am new to github and proggraming society... just four months into web technologies. i hope this will work out well...
